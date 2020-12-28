@@ -83,7 +83,7 @@ Multiple Executor Mode Parameters
 |                                                      | FlowSize,             |                       |
 |                                                      | MinimumFreeMemory and |                       |
 |                                                      | CpuStatus. Order of   |                       |
-|                                                      | filter do not matter. |                       |
+|                                                      | filter does not matter. |                       |
 +------------------------------------------------------+-----------------------+-----------------------+
 | azkaban.executorselector.comparator.{ComparatorName} | Integer weight to be  |                       |
 |                                                      | used to rank          |                       |
